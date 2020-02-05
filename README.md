@@ -3,10 +3,21 @@ In this page, we will upload all those materials that we are going to study duri
 
 ## Friday Jan. 31, 2020
 #### Atiyeh's Topic of Interest: ECG, Graph learning and Change point detection
+Description:
+
 Documents:
 
 ### Friday Feb. 14, 2020
 #### Alireza's Topic of Interest: 
+Description:
+
+Documents:
+
+
+### Friday Feb. 28, 2020
+#### Sajad's Topic of Interest: 
+Description:
+
 Documents:
 
 
