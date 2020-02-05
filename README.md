@@ -1,3 +1,7 @@
+# Welcome to the Reading Group
+In this page, we upload all those materials that we are going to study during the meeting. Also, we can attach our presentations here.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/alireza1990/groupmeeting/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
