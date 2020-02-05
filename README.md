@@ -8,11 +8,14 @@ Description:
 Documents:
 
 ### Friday Feb. 14, 2020
-#### Alireza's Topic of Interest: 
+#### Alireza's Topic of Interest: Spectrum, Wireless Signal Classification, Deep learning, Dataset
 Description:
 
 Documents:
-
+1- [Radio Machine Learning Dataset Generation with GNU Radio](https://pubs.gnuradio.org/index.php/grcon/article/download/11/10)
+2- [An Introduction to Deep Learning for the Physical Layer](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8054694)
+3- [Over-the-Air Deep Learning Based Radio Signal Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8267032)
+4- [Deep Learning Models for Wireless Signal Classification With Distributed Low-Cost Spectrum Sensors](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8357902)
 
 ### Friday Feb. 28, 2020
 #### Sajad's Topic of Interest: 
