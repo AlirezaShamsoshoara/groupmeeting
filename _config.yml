@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: [Group Reading 2020 School of Informatics Computing and Cyber Systems Northern Arizona University]
 description: [A short description of your site's purpose]
+github:
+  is_project_page: false
