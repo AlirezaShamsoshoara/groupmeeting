@@ -1,5 +1,5 @@
 # Welcome to the Reading Group
-In this page, we upload all those materials that we are going to study during the meeting. Also, we can attach our presentations here.
+In this page, we will upload all those materials that we are going to study during the meeting. Also, we can attach our presentations here.
 
 
 ## Welcome to GitHub Pages
