@@ -1,6 +1,15 @@
 # Welcome to the Reading Group
 In this page, we will upload all those materials that we are going to study during the meeting. Also, we can attach our presentations here.
 
+## Friday Jan. 31, 2020
+#### Atiyeh's Topic of Interest: ECG, Graph learning and Change point detection
+Documents:
+
+### Friday Feb. 31, 2020
+#### Alireza's Topic of Interest: 
+Documents:
+
+
 
 ## Welcome to GitHub Pages
 
